@@ -19,3 +19,10 @@ function bruchTeeth() {
 //call the function 
 fanOffKor();
 bruchTeeth();
+
+//variable
+//conditions
+//array
+//objects
+//loop
+//function
